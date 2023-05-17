@@ -3,3 +3,4 @@ Type: Package
 Title: Fairy Kei Inspired Colour Palette
 Version: 0.0.1.0
 RoxygenNote: 7.2.3
+StagedInstall: no
